@@ -1,3 +1,19 @@
+Hi, I'm Nihal 👋  
+A Computer Science graduate passionate about software development, cybersecurity, and building practical web applications. I enjoy working on both front-end and back-end technologies and continuously improving my coding skills through projects and learning.
+
+💻 Tech Interests:
+- Web Development
+- Cybersecurity
+- AI & Emerging Technologies
+- Software Engineering
+
+🌱 Currently:
+- Looking for internship opportunities
+- Expanding my development and security knowledge
+- Building real-world projects
+
+⚡ Fun fact:
+I enjoy music, movies, and exploring new technologies.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihalvmb06@gmail.com) 
